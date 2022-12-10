@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Stonee</h1>
 <h3 align="center">A teen full stack developer and guitarist</h3>
 
-<p align="center"> 🔭 I’m currently working on [mywebsite](https://github.com/NotStonee/mywebsite)</p>
+<p align="center"> 🔭 I’m currently working on [mywebsite] (https://github.com/NotStonee/mywebsite)</p>
 
 <p align="center"> 🌱 I’m currently learning **SQL, Node.js, and Python**</p>
 
-<p align="center"> 👯 I’m looking to collaborate on [Break-out](https://github.com/NotStonee/Break-out)</p>
+<p align="center"> 👯 I’m looking to collaborate on [Break-out] (https://github.com/NotStonee/Break-out)</p>
 
-<p align="center"> 🤝 I’m looking for help with [Break-out](https://github.com/NotStonee/Break-out)</p>
+<p align="center"> 🤝 I’m looking for help with [Break-out] (https://github.com/NotStonee/Break-out)</p>
 
-<p align="center"> 👨‍💻 All of my projects are available at [https://github.com/NotStonee](https://github.com/NotStonee)</p>
+<p align="center"> 👨‍💻 All of my projects are available at [https://github.com/NotStonee]</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
