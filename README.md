@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stonee</h1>
+<h1 align="center">Hello 👋, I'm Stonee</h1>
 <h3 align="center">A teen full stack developer and guitarist</h3>
 
 <p align="center"> 🔭 I’m currently working on [mywebsite] (https://github.com/NotStonee/mywebsite)</p>
