@@ -1,3 +1,4 @@
+<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWv9tYf_BY72qhr6W0ys2ndX49ilqJd2jZbSLx7IMzeLLPS-wjUZMGWOU99Lvfq5bSRZY&usqp=CAU'>
 <h1 align="center">Hi 👋, I'm Stonee</h1>
 <h3 align="center">A teen full stack developer and guitarist</h3>
 
