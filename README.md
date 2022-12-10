@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stonee</h1>
 <h3 align="center">A teen full stack developer and guitarist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=notstonee&label=Profile%20views&color=0e75b6&style=flat" alt="notstonee" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notstonee" alt="notstonee" /></a> </p>
-
 - 🔭 I’m currently working on [mywebsite](https://github.com/NotStonee/mywebsite)
 
 - 🌱 I’m currently learning **SQL, Node.js, and Python**
@@ -26,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notstonee&show_icons=true&locale=en&layout=compact" alt="notstonee" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notstonee&show_icons=true&locale=en" alt="notstonee" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notstonee&" alt="notstonee" /></p>
