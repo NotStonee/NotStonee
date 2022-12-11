@@ -13,7 +13,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.youtube.com/c/https://www.youtube.com/@notstonee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@notstonee" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@NotStonee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@notstonee" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
