@@ -1,15 +1,15 @@
 <h1 align="center"><img src='https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif' width=40px height=40px> I'm Stonee</h1>
-<h3 align="center">A teen full stack developer and guitarist</h3>
+<h2 align="center">A teen full stack developer and guitarist</h3>
 
-<p align="center"> 🔭 I’m currently working on [mywebsite] (https://github.com/NotStonee/mywebsite)</p>
+<h3 align="center"> 🔭 I’m currently working on [mywebsite] (https://github.com/NotStonee/mywebsite)</h2>
 
-<p align="center"> 🌱 I’m currently learning **SQL, Node.js, and Python**</p>
+<h3 align="center"> 🌱 I’m currently learning **SQL, Node.js, and Python**</h2>
 
-<p align="center"> 👯 I’m looking to collaborate on [Break-out] (https://github.com/NotStonee/Break-out)</p>
+<h3 align="center"> 👯 I’m looking to collaborate on [Break-out] (https://github.com/NotStonee/Break-out)</h2>
 
-<p align="center"> 🤝 I’m looking for help with [Break-out] (https://github.com/NotStonee/Break-out)</p>
+<h3 align="center"> 🤝 I’m looking for help with [Break-out] (https://github.com/NotStonee/Break-out)</h2>
 
-<p align="center"> 👨‍💻 All of my projects are available at (https://github.com/NotStonee)</p>
+<h3 align="center"> 👨‍💻 All of my projects are available at (https://github.com/NotStonee)</h2>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
