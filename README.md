@@ -25,10 +25,7 @@
     <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt='sqlite' width='40' height='40'/></a>
 </p>
 
-
 <p align='center'> <img src="https://github-readme-stats.vercel.app/api?username=notstonee&amp;layout=compact&amp;theme=tokyonight" alt="notstonee"></p>
 <p align='center'><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotStonee&amp;layout=compact&amp;theme=tokyonight" alt="Top Langs"></a></p>
 <p align="center">Profile Visits<p>
 <p align="center"><img src="https://profile-counter.glitch.me/{YOUR USER}/count.svg" alt="Visitor Count"></p>
-
-
