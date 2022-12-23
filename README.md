@@ -1,14 +1,12 @@
 <h1 align="center"><img src='https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif' width=40px height=40px> I'm Stonee</h1>
 <h3 align="center">A teen full stack developer and guitarist</h3>
-<h3 align="center"> 🔭 I’m currently working on [mywebsite] (https://github.com/NotStonee/mywebsite)</h2>
+<h3 align="center"> 💼 I’m currently working on [mywebsite] (https://github.com/NotStonee/mywebsite)</h2>
 
-<h3 align="center"> 🌱 I’m currently learning <em>**Node.js, Python, and SQL**</em></h2>
+<h3 align="center"> 📚 I’m currently learning <em>**Node.js And Python**</em></h2>
 
-<h3 align="center"> 👯 I’m looking to collaborate on [Break-out] (https://github.com/NotStonee/Break-out)</h2>
+<h3 align="center"> ❓ I’m looking for help with [Break-out] (https://github.com/NotStonee/Break-out)</h2>
 
-<h3 align="center"> 🤝 I’m looking for help with [Break-out] (https://github.com/NotStonee/Break-out)</h2>
-
-<h3 align="center"> 👨‍💻 All of my projects are available at (https://github.com/NotStonee)</h2>
+<h3 align="center"> ✨ All of my projects are available here at (https://github.com/NotStonee)</h2>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
