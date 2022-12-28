@@ -1,4 +1,5 @@
 <h1 align='center'><img src='https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif' width=40px height=40px> I'm Stonee</h1>
+
 <h3 align='center'> 🎸 A teen full stack developer and guitarist</h3>
 
 <h3 align='center'> 💼 I’m currently working on [mywebsite] (https://github.com/NotStonee/mywebsite)</h2>
@@ -27,5 +28,6 @@
 <p align='center'><a href='https://github.com/NotStonee'><img src='https://github-readme-stats.vercel.app/api?username=notstonee&amp;layout=compact&amp;theme=tokyonight'></a></p>
 <p align='center'><a href='https://github.com/NotStonee'><img src='https://github-readme-streak-stats.herokuapp.com/?user=notstonee&theme=tokyonight'></a></p>
 <p align='center'><a href='https://github.com/NotStonee'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=NotStonee&amp;layout=compact&amp;theme=tokyonight' alt='Top Langs'></a></p>
+
 <p align='center'>Profile Visits<p>
 <p align='center'><a href='https://github.com/NotStonee'><img src='https://profile-counter.glitch.me/{YOUR USER}/count.svg' alt='Visitor Count'></a></p>
