@@ -6,7 +6,8 @@
 
 <h3 align='center'> 📚 I’m currently learning <em>**Node.js And Python**</em></h2>
 
-<h3 align='center'> ❓ I’m looking for help with [Break-out] (https://github.com/NotStonee/Break-out)</h2>
+<!--<h3 align='center'> ❓ I’m looking for help with [Break-out] (https://github.com/NotStonee/Break-out)</h2>
+-->
 
 <h3 align='center'> ✨ All of my projects are available here at (https://github.com/NotStonee)</h2>
 
