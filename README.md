@@ -4,7 +4,7 @@
 
 <h3 align='center'> 💼 I’m currently working on [mywebsite] (https://github.com/NotStonee/mywebsite)</h2>
 
-<h3 align='center'> 📚 I’m currently learning <em>**Node.js And Python**</em></h2>
+<h3 align='center'> 📚 I’m currently learning <em>**Node.js, Python, And C#**</em></h2>
 
 <!--<h3 align='center'> ❓ I’m looking for help with [Break-out] (https://github.com/NotStonee/Break-out)</h2>
 -->
