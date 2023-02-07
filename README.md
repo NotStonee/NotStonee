@@ -1,4 +1,4 @@
-<h1 align='center'><img src='https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif' width=40px height=40px> I'm Stonee</h1>
+<h1 align='center'><img src='https://github.githubassets.com/images/mona-loading-dark.gif' width=40px height=40px> I'm Stonee</h1>
 
 <h3 align='center'> 🎸 A teen full stack developer and guitarist</h3>
 
