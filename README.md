@@ -27,8 +27,6 @@
     <a href='https://www.w3schools.com/mongodb/' target='_blank' rel='noreferrer'> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg' alt='mongodb' width='40' height='40'/></a>
   <a href='https://www.w3schools.com/cs/index.php' target='_blank' rel='noreferrer'> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg' alt='cSharp' width='40' height='40'/></a>
 </p>       
-<p align='center'><a href='https://github.com/NotStonee'><img src='https://github-readme-stats.vercel.app/api?username=notstonee&amp;layout=compact&amp;theme=tokyonight'></a></p>
-<p align='center'><a href='https://github.com/NotStonee'><img src='https://github-readme-streak-stats.herokuapp.com/?user=notstonee&theme=tokyonight'></a></p>
 <p align='center'><a href='https://github.com/NotStonee'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=NotStonee&amp;layout=compact&amp;theme=tokyonight' alt='Top Langs'></a></p>
 
 <p align='center'>Profile Visits<p>
