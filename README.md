@@ -2,7 +2,7 @@
 
 <h3 align='center'> 🎸 A teen software engineer and guitarist</h3>
 
-<h3 align='center'> 💼 I’m currently working on [mywebsite] (https://github.com/NotStonee/mywebsite)</h2>
+<!--<h3 align='center'> 💼 I’m currently working on </h2>-->
 
 <h3 align='center'> 📚 I’m currently learning <strong>Node.js, Python, And C#</strong></h2>
 
