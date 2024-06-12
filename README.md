@@ -1,12 +1,12 @@
 <h1 align='center'><img src='https://github.githubassets.com/images/mona-loading-dark.gif' width=40px height=40px> I'm Stonee</h1>
 
-<h3 align='center'> 🎸 A teen software engineer and guitarist</h3>
+<h3 align='center'> 🎸 I play guitar and stuff</h3>
 
 <!--<h3 align='center'> 💼 I’m currently working on </h2>-->
 
-<h3 align='center'> 📚 I’m currently learning <strong>Node.js, Python, And C#</strong></h2>
+<h3 align='center'> 📚 I’m currently learning <strong>Node.js, Python, java, And C#</strong></h2>
 
-<!--<h3 align='center'> ❓ I’m looking for help with [Break-out] (https://github.com/NotStonee/Break-out)</h2>
+<!--<h3 align='center'> ❓ I’m looking for help with </h2>
 -->
 
 <h3 align='center'> ✨ All of my projects are available here at (https://github.com/NotStonee)</h2>
