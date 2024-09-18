@@ -2,7 +2,7 @@
 
 <h3 align='center'> 🎸 I play guitar and stuff</h3>
 
-<!--<h3 align='center'> 💼 I’m currently working on </h2>-->
+<!--<h3 align='center'> 💼 I’m currently working on </h2>
 
 <h3 align='center'> 📚 I’m currently learning <strong>Node.js, Python, java, And C#</strong></h2>
 
@@ -11,11 +11,11 @@
 
 <h3 align='center'> ✨ All of my projects are available here at (https://github.com/NotStonee)</h2>
 
-<h3 align='center'>Connect with me:</h3>
+<!--<h3 align='center'>Connect with me:</h3>
 <p align='center'>
   <a href='https://www.youtube.com/@NotStonee' target='blank'><img align='center' src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg' alt='https://www.youtube.com/notstonee' height='30' width='40' /></a>
 </p>
-
+-->
 <h3 align='center'>Languages and Tools:</h3>
 <p align='center'>
    <a href='https://www.w3schools.com/html/' target='_blank' rel='noreferrer'> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' alt='html5' width='40' height='40'/> </a>
