@@ -1,4 +1,4 @@
-<h1 align='center'><img src='https://github.githubassets.com/images/mona-loading-dark.gif' width=40px height=40px> Stonee</h1>
+<h1 align='center'><img src='https://github.githubassets.com/images/mona-loading-dark.gif' width=40px height=40px>Stonee</h1>
 
 <h3 align='center'> 🎸 I play guitar and am currently a software engineer student</h3>
 
