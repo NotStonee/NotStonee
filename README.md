@@ -19,7 +19,6 @@
 <h3 align='center'>Languages and Tools:</h3>
 <p align='center'>
     <a href='https://www.w3schools.com/js/' target='_blank' rel='noreferrer'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='javascript' width='40' height='40'/> </a>
-  <a href='https://www.w3schools.com/nodejs/' target='_blank' rel='noreferrer'> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' alt='nodejs' width='40' height='40'/> </a>
   <a href='https://www.w3schools.com/python/' target='_blank' rel='noreferrer'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='python' width='40' height='40'/> </a>
   <a href='https://www.w3schools.com/cs/index.php' target='_blank' rel='noreferrer'> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg' alt='cSharp' width='40' height='40'/></a>
 </p>       
