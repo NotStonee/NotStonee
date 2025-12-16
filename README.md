@@ -1,6 +1,6 @@
 <h1 align='center'><img src='https://github.githubassets.com/images/mona-loading-dark.gif' width=40px height=40px> I'm Stonee</h1>
 
-<h3 align='center'> 🎸 I play guitar and stuff</h3>
+<h3 align='center'> 🎸 I play guitar and am currently a software engineer student</h3>
 
 <!--<h3 align='center'> 💼 I’m currently working on </h2>
 
