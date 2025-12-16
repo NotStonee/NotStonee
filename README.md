@@ -1,4 +1,4 @@
-<h1 align='center'><img src='https://github.githubassets.com/images/mona-loading-dark.gif' width=40px height=40px>Stonee</h1>
+<h1 align='center'><img src='https://github.githubassets.com/images/mona-loading-dark.gif' width=40px height=40px> Stonee</h1>
 
 <h3 align='center'> 🎸 I play guitar and am currently a software engineer student</h3>
 
@@ -18,8 +18,6 @@
 -->
 <h3 align='center'>Languages and Tools:</h3>
 <p align='center'>
-   <a href='https://www.w3schools.com/html/' target='_blank' rel='noreferrer'> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' alt='html5' width='40' height='40'/> </a>
-    <a href='https://www.w3schools.com/css/' target='_blank' rel='noreferrer'> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' alt='css3' width='40' height='40'/> </a>
     <a href='https://www.w3schools.com/js/' target='_blank' rel='noreferrer'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='javascript' width='40' height='40'/> </a>
   <a href='https://www.w3schools.com/nodejs/' target='_blank' rel='noreferrer'> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' alt='nodejs' width='40' height='40'/> </a>
   <a href='https://www.w3schools.com/python/' target='_blank' rel='noreferrer'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='python' width='40' height='40'/> </a>
